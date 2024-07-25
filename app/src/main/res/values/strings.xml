@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scratch Application</string>
+    <string name="demotext">demotext</string>
+    <string name="horizontal_data">Horizontal data</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="row_2">Row 2</string>
+    <string name="horizontal_recycler_view">Horizontal Recycler view</string>
+    <string name="row_3">Row 3</string>
+    <string name="vertical_recycler_view">Vertical Recycler view</string>
+</resources>
